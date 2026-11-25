@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE REPORTE DE INCIDENTES EN PLANTA
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+Cualquier accidente o casi accidente se reporta al supervisor de inmediato y por escrito en 24 horas.
+
+Las lesiones se atienden primero en el servicio médico y se avisa a RR. HH.
+
+El equipo de seguridad investiga la causa en 5 días hábiles y emite acciones correctivas.
+
+Los indicadores de accidentes se presentan cada mes a la dirección.

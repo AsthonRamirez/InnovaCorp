@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE DEVOLUCIONES DE CLIENTES
+InnovaCorp · Área: logistica · Versión 1.0 · Estado: vigente
+
+El cliente solicita la devolución a Atención al Cliente, quien genera un folio RMA.
+
+Logística recibe el producto con el folio, revisa su estado y lo registra en el sistema en 2 días hábiles.
+
+Si el producto está en buen estado regresa al inventario; si está dañado se envía a revisión de calidad.
+
+La devolución se informa a Finanzas para emitir la nota de crédito.

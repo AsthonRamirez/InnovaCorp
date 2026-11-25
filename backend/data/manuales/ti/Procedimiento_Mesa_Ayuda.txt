@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE MESA DE AYUDA DE TI
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Los incidentes se reportan al portal de tickets o a la extensión 1000.
+
+Prioridad crítica (servicio caído): atención en 30 minutos. Prioridad alta: 4 horas. Prioridad normal: 2 días hábiles.
+
+El ticket se cierra solo cuando el usuario confirma que el problema se resolvió.
+
+Si un ticket no se resuelve en el tiempo acordado se escala al jefe de TI.

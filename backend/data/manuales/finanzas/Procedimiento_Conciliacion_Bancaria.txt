@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE CONCILIACIÓN BANCARIA
+InnovaCorp · Área: finanzas · Versión 1.0 · Estado: vigente
+
+Cada semana Finanzas compara los movimientos del banco con los registros contables.
+
+Las diferencias se investigan en 3 días hábiles; las mayores a 1,000 pesos se reportan al contralor.
+
+La conciliación mensual se firma por el contador y el jefe de Finanzas antes del día 5 del siguiente mes.
+
+Los depósitos no identificados se aclaran con el banco en máximo 10 días.

@@ -1,0 +1,12 @@
+MANUAL DE ACUERDOS DE NIVEL DE SERVICIO (SLA)
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+Crítico: respuesta en 30 minutos y solución en 4 horas.
+
+Alto: respuesta en 2 horas y solución en 1 día hábil.
+
+Medio: respuesta en 4 horas y solución en 3 días hábiles.
+
+Bajo: respuesta en 1 día hábil y solución en 7 días hábiles.
+
+El cumplimiento del SLA debe ser de al menos 95 por ciento mensual.

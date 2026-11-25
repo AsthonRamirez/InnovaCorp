@@ -1,0 +1,10 @@
+MANUAL DE PLANEACIÓN DE RUTAS DE ENTREGA
+InnovaCorp · Área: logistica · Versión 1.0 · Estado: vigente
+
+Las rutas se planean cada día a las 8:00 horas agrupando pedidos por zona geográfica.
+
+Cada unidad de reparto realiza un máximo de 15 entregas por jornada.
+
+Los pedidos prioritarios se cargan al final para que sean los primeros en entregarse.
+
+El repartidor registra en la aplicación la hora y la evidencia de entrega (firma o foto) en cada parada.

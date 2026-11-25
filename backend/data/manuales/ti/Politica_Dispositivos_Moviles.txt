@@ -1,0 +1,10 @@
+POLÍTICA DE DISPOSITIVOS MÓVILES Y BYOD
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Los colaboradores pueden usar su celular personal para correo corporativo si lo registran en TI.
+
+El dispositivo debe tener bloqueo con PIN o huella, cifrado activado y sistema operativo actualizado.
+
+En caso de pérdida o robo se avisa a TI en máximo 2 horas para borrar la información corporativa de forma remota.
+
+No se almacenan documentos confidenciales en memorias USB personales.

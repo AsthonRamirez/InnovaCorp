@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE COTIZACIONES A CLIENTES
+InnovaCorp · Área: ventas · Versión 1.0 · Estado: vigente
+
+Las cotizaciones se elaboran en la plantilla oficial de ventas y tienen una vigencia de 15 días naturales.
+
+Los descuentos mayores al 10 por ciento requieren autorización del gerente comercial.
+
+Toda cotización se envía al cliente en máximo 2 días hábiles después de recibir los requerimientos.
+
+Se registra en el CRM con su número de folio.

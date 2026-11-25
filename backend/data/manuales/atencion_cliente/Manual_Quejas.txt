@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ATENCIÓN DE QUEJAS DE CLIENTES
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+Toda queja se registra en el sistema de tickets y se confirma al cliente en un máximo de 4 horas hábiles.
+
+Si la queja no se resuelve en 3 días hábiles, se escala al supervisor de atención al cliente.
+
+Al cerrar la queja se informa al cliente la solución y se le pide calificar la atención.
+
+Las quejas graves (pérdida de datos, fallas críticas) se informan al director de operaciones el mismo día.

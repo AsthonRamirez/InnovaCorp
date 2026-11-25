@@ -1,0 +1,10 @@
+PLAN DE CONTINUIDAD DE SERVICIOS DE TI
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Los servicios críticos son correo, ERP, VPN y sistema de tickets. Su tiempo máximo de recuperación es de 4 horas.
+
+Existe un sitio alterno en la nube al que se cambia la operación si el servidor principal falla.
+
+TI realiza un simulacro de recuperación cada 6 meses.
+
+Durante una caída se informa el estado cada hora en el canal de avisos de la empresa.

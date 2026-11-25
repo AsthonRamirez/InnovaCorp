@@ -1,0 +1,10 @@
+MANUAL DE REDES Y WIFI
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Existen tres redes: Innova-Corp (empleados), Innova-Invitados (visitantes) e Innova-Dispositivos (equipos de oficina).
+
+La red de invitados tiene contraseña que cambia cada semana y solo da acceso a internet.
+
+No se permite conectar routers, switches o puntos de acceso propios a la red corporativa.
+
+Para solicitar un puerto de red nuevo se abre un ticket con el número de escritorio.

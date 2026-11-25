@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE PLANEACIÓN DE LA PRODUCCIÓN
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+El plan de producción se elabora cada viernes para la semana siguiente con base en los pedidos de Ventas y el inventario.
+
+El jefe de planta valida la capacidad de las líneas y la disponibilidad de materia prima.
+
+Los cambios al plan después del martes necesitan autorización del gerente de producción.
+
+El cumplimiento del plan se mide como porcentaje de piezas producidas contra las planeadas; la meta es 95 por ciento.

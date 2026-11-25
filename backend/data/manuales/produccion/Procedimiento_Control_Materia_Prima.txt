@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE CONTROL DE MATERIA PRIMA
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+La materia prima se recibe con certificado de calidad del proveedor y se inspecciona antes de ingresar.
+
+Se almacena con el método PEPS: primeras entradas, primeras salidas.
+
+Materiales con humedad o empaque dañado se rechazan y se reportan a Compras.
+
+El inventario de materia prima se cuenta cada mes y el nivel mínimo es de 7 días de producción.

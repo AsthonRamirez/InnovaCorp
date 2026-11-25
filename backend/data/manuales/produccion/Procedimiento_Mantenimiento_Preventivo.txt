@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE MANTENIMIENTO PREVENTIVO
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+Cada máquina tiene un calendario de mantenimiento: lubricación semanal, revisión mensual y servicio general cada 6 meses.
+
+El técnico registra cada intervención en la bitácora de la máquina.
+
+Una máquina en mantenimiento se bloquea con candado y etiqueta (procedimiento de bloqueo y etiquetado).
+
+El mantenimiento correctivo se solicita al jefe de mantenimiento con el formato FOR-PR-09.

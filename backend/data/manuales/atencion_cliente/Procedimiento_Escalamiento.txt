@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ESCALAMIENTO DE CASOS
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+Nivel 1: agente de atención (resuelve consultas frecuentes en la primera llamada).
+
+Nivel 2: especialista técnico, si no se resuelve en 4 horas hábiles.
+
+Nivel 3: supervisor, si no se resuelve en 2 días hábiles o el cliente lo solicita.
+
+Al escalar se documenta el historial para que el cliente no repita su problema.

@@ -1,0 +1,10 @@
+POLÍTICA DE SOFTWARE Y LICENCIAS
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Solo se permite usar software con licencia adquirida o de código abierto aprobado por TI.
+
+La solicitud de una licencia nueva se hace por ticket e indica el costo y la justificación; TI responde en 5 días hábiles.
+
+Cada año TI audita las licencias y recupera las que no se usan en 90 días.
+
+Instalar software pirata es una falta grave.

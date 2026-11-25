@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE GESTIÓN DE INCIDENTES DE SEGURIDAD
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Si se sospecha de un virus, robo de información o acceso no autorizado, se desconecta el equipo de la red y se avisa a TI de inmediato.
+
+TI clasifica el incidente, aísla los sistemas afectados y lo documenta en el formato FOR-TI-06.
+
+Los incidentes con datos de clientes se informan a la dirección en un máximo de 24 horas.
+
+Después se realiza un análisis de causa y se aplican las medidas correctivas.

@@ -1,0 +1,10 @@
+POLÍTICA DE RESPALDOS DE INFORMACIÓN
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Los servidores se respaldan todos los días a las 23:00 horas y los respaldos se conservan 30 días.
+
+Cada domingo se hace un respaldo completo que se conserva 12 meses.
+
+Cada trimestre TI prueba la restauración de un respaldo para comprobar que funciona.
+
+Los archivos de los colaboradores deben guardarse en la carpeta corporativa en la nube; lo guardado solo en el disco local no se respalda.

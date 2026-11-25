@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ENVÍOS Y RECEPCIÓN DE MERCANCÍA
+InnovaCorp · Área: logistica · Versión 1.0 · Estado: vigente
+
+Todo envío se registra en el sistema de logística con guía, destino y responsable antes de las 14:00 horas para salir el mismo día.
+
+Los envíos registrados después de esa hora salen al siguiente día hábil.
+
+Cada paquete lleva etiqueta con número de pedido, destino y datos del cliente.
+
+El cliente recibe el número de rastreo por correo electrónico al despacharse el envío.

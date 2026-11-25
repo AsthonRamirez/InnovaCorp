@@ -1,0 +1,10 @@
+POLÍTICA DE INVENTARIO CÍCLICO
+InnovaCorp · Área: logistica · Versión 1.0 · Estado: vigente
+
+El almacén realiza conteos cíclicos semanales por zonas: zona A los lunes, zona B los miércoles y zona C los viernes.
+
+Una diferencia mayor al 2 por ciento entre el sistema y el conteo físico obliga a repetir el conteo.
+
+Los ajustes de inventario los autoriza el jefe de Logística y se registran con el formato FOR-LO-04.
+
+Cada año se hace un inventario general en diciembre.

@@ -1,0 +1,10 @@
+MANUAL DE CONTROL DE ACTIVOS FIJOS
+InnovaCorp · Área: administracion · Versión 1.0 · Estado: vigente
+
+Todo bien con valor mayor a 3,000 pesos se registra como activo fijo y recibe una etiqueta con número de inventario.
+
+Cada año Administración realiza un inventario físico en el mes de noviembre.
+
+El colaborador responsable debe reportar pérdida o robo de un activo en un máximo de 24 horas mediante el formato FOR-AD-09.
+
+Los traslados de activos entre áreas requieren el formato de movimiento firmado por ambos jefes.

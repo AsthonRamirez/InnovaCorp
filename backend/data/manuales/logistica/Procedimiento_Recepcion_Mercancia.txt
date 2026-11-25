@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE RECEPCIÓN DE MERCANCÍA
+InnovaCorp · Área: logistica · Versión 1.0 · Estado: vigente
+
+Al recibir mercancía se verifica contra la orden de compra: cantidad, descripción y estado del empaque.
+
+Cualquier daño o diferencia se anota en la nota de entrega y se reporta a Logística en las siguientes 24 horas.
+
+La mercancía conforme se ingresa al sistema el mismo día y se acomoda en su ubicación asignada.
+
+Mercancía sin orden de compra no se acepta y se regresa al transportista.

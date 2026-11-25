@@ -1,0 +1,10 @@
+POLÍTICA DE PRIORIDADES DE TICKETS DE SOPORTE
+InnovaCorp · Área: soporte_interno · Versión 1.0 · Estado: vigente
+
+Prioridad 1 (urgente): afecta a un área completa o a un directivo. Atención inmediata, máximo 1 hora.
+
+Prioridad 2 (alta): impide trabajar a un colaborador. Atención en 4 horas.
+
+Prioridad 3 (normal): fallas menores. Atención en 2 días hábiles.
+
+Prioridad 4 (baja): solicitudes de mejora. Atención en 10 días hábiles.

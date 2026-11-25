@@ -1,0 +1,10 @@
+SOP-SI-02 REPARACIÓN DE EQUIPO DE CÓMPUTO
+InnovaCorp · Área: soporte_interno · Versión 1.0 · Estado: vigente
+
+Si un equipo falla, el colaborador abre un ticket en el portal de Soporte Interno describiendo el problema.
+
+Un técnico diagnostica en un máximo de 1 día hábil. Las reparaciones sencillas se resuelven en 2 días hábiles.
+
+Si la reparación tarda más de 3 días, se presta un equipo temporal.
+
+Los daños por mal uso se informan al jefe del colaborador y pueden generar un cargo por reposición.

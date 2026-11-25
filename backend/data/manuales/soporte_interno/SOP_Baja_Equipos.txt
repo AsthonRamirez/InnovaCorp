@@ -1,0 +1,10 @@
+SOP-SI-07 BAJA DE EQUIPOS OBSOLETOS
+InnovaCorp · Área: soporte_interno · Versión 1.0 · Estado: vigente
+
+Un equipo con más de 5 años de uso o sin reparación posible se propone para baja.
+
+Soporte Interno borra la información de forma segura y genera el acta de baja.
+
+Administración autoriza la baja y el equipo se entrega a un proveedor certificado de reciclaje.
+
+El certificado de destrucción se archiva 5 años.

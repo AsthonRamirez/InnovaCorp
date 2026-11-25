@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE FACTURACIÓN A CLIENTES
+InnovaCorp · Área: finanzas · Versión 1.0 · Estado: vigente
+
+Ventas envía a Finanzas la orden de servicio firmada para iniciar la facturación.
+
+Finanzas emite la factura electrónica en un máximo de 2 días hábiles y la envía al cliente por correo.
+
+Si el cliente pide cambios en sus datos fiscales, debe enviar su constancia de situación fiscal actualizada.
+
+Las cancelaciones de facturas se autorizan solo dentro del mismo mes.

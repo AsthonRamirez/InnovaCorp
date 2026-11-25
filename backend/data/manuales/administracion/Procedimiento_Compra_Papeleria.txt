@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE COMPRA DE PAPELERÍA Y SUMINISTROS
+InnovaCorp · Área: administracion · Versión 1.0 · Estado: vigente
+
+Cada área solicita suministros de oficina el primer lunes de cada mes mediante el formato FOR-AD-05.
+
+Administración consolida los pedidos y los entrega en un máximo de 5 días hábiles.
+
+Pedidos urgentes se aprueban solo por el gerente de Administración y tienen un tope de 1,500 pesos.
+
+Compras mayores a 5,000 pesos requieren al menos dos cotizaciones.

@@ -1,0 +1,10 @@
+MANUAL DE GESTIÓN DOCUMENTAL
+InnovaCorp · Área: administracion · Versión 1.0 · Estado: vigente
+
+Todo documento oficial se nombra con el formato ÁREA-TIPO-AAAA-NNN, por ejemplo AD-OFI-2026-014.
+
+Los originales se archivan físicamente 5 años y las copias digitales se guardan en el repositorio corporativo por 10 años.
+
+Los documentos confidenciales se marcan en la primera página y solo se comparten con autorización del director de área.
+
+Cada trimestre Administración revisa que los documentos vigentes estén actualizados y marca los demás como obsoletos.

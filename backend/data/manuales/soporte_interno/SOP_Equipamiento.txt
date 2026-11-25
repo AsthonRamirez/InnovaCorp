@@ -1,0 +1,16 @@
+SOP-SI-01 SOLICITUD DE EQUIPO DE CÓMPUTO NUEVO
+InnovaCorp · Área: soporte_interno · Versión 1.0 · Estado: vigente
+
+Objetivo: establecer el procedimiento para que un colaborador de InnovaCorp solicite un equipo de cómputo nuevo.
+
+Procedimiento para solicitar un equipo de cómputo nuevo:
+
+Paso 1. El colaborador llena el formato FOR-SI-03 Solicitud de equipo en el portal de Soporte Interno, indicando su puesto, la justificación y las especificaciones requeridas.
+
+Paso 2. El jefe directo revisa y aprueba la solicitud en un máximo de 2 días hábiles.
+
+Paso 3. Soporte Interno valida la disponibilidad en inventario. Si hay equipo disponible se asigna; si no, genera una orden de compra con apoyo de Finanzas.
+
+Paso 4. Soporte Interno notifica por correo la fecha de entrega: 5 días hábiles si hay inventario y 15 días hábiles si se requiere compra.
+
+Paso 5. Al recibir el equipo, el colaborador firma la carta responsiva y Soporte Interno lo configura. El equipo anterior debe devolverse en ese mismo momento.

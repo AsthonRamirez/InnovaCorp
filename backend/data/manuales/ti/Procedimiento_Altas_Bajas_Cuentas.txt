@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ALTAS Y BAJAS DE CUENTAS DE USUARIO
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+RR. HH. avisa a TI de cada alta con 3 días hábiles de anticipación para crear el correo, el usuario y los accesos por rol.
+
+Los accesos se otorgan con el principio de mínimo privilegio: solo lo necesario para el puesto.
+
+Cuando un colaborador se va, TI desactiva sus cuentas el último día laboral y conserva su buzón 90 días.
+
+Cada semestre se revisan los accesos de todos los usuarios.

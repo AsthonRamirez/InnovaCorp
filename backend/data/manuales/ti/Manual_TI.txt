@@ -1,0 +1,10 @@
+MANUAL DE SEGURIDAD Y ACCESOS DE TI
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+Contraseñas: deben tener al menos 12 caracteres y cambiarse cada 90 días. Está prohibido compartirlas.
+
+VPN: para trabajo remoto se solicita acceso a VPN mediante un ticket en la mesa de ayuda de TI; se otorga en 1 día hábil previa autorización del jefe directo.
+
+Software: solo TI puede instalar programas. Las solicitudes de licencias se envían por ticket con justificación.
+
+Se debe activar la verificación en dos pasos en todas las cuentas corporativas.

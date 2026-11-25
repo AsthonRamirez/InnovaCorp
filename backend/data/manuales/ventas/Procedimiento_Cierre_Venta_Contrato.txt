@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE CIERRE DE VENTA Y CONTRATO
+InnovaCorp · Área: ventas · Versión 1.0 · Estado: vigente
+
+Cuando el cliente acepta la cotización, el ejecutivo solicita el contrato al área jurídica con el formato FOR-VE-03.
+
+Jurídico entrega el contrato en 3 días hábiles. Los contratos con cambios especiales tardan hasta 8 días hábiles.
+
+Tras la firma, Ventas envía la orden de servicio a Finanzas y a Soporte para iniciar el proyecto.
+
+Una venta se considera cerrada solo cuando existe contrato firmado.

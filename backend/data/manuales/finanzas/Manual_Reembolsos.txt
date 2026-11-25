@@ -1,0 +1,8 @@
+PROCEDIMIENTO DE REEMBOLSOS DE GASTOS
+InnovaCorp · Área: finanzas · Versión 1.0 · Estado: vigente
+
+Para solicitar un reembolso, el colaborador envía a Finanzas el formato FOR-FI-01 con facturas originales en un plazo máximo de 10 días naturales.
+
+Finanzas revisa la solicitud en 3 días hábiles y paga el reembolso por transferencia en el siguiente corte semanal (viernes).
+
+No se reembolsan gastos sin factura ni consumo de bebidas alcohólicas.

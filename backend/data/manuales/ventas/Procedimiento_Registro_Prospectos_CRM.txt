@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE REGISTRO DE PROSPECTOS EN EL CRM
+InnovaCorp · Área: ventas · Versión 1.0 · Estado: vigente
+
+Todo prospecto se registra en el CRM el mismo día del primer contacto con nombre, empresa, correo, teléfono y origen.
+
+No se permiten prospectos duplicados; antes de crear uno se busca por empresa.
+
+Los prospectos sin actividad por 60 días pasan a estado inactivo.
+
+El gerente comercial revisa cada lunes el pipeline del equipo.

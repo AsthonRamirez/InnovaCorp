@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ATENCIÓN POR CHAT Y CORREO
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+El chat atiende de lunes a viernes de 8:00 a 20:00 horas y responde en menos de 2 minutos.
+
+Los correos de soporte se contestan en máximo 4 horas hábiles y se atiende el chat con un máximo de 3 conversaciones simultáneas.
+
+Los correos fuera de horario se responden al siguiente día hábil a primera hora.
+
+Cada conversación se cierra con un resumen de los acuerdos.

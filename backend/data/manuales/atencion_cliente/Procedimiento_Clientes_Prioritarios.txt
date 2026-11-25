@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ATENCIÓN A CLIENTES PRIORITARIOS
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+Los clientes con contrato anual mayor a 500,000 pesos son prioritarios y cuentan con un ejecutivo de cuenta asignado.
+
+Sus casos tienen respuesta en máximo 1 hora hábil y línea directa.
+
+Cada trimestre se realiza una reunión de revisión de servicio con el cliente.
+
+Cualquier falla que los afecte se informa al director de operaciones de inmediato.

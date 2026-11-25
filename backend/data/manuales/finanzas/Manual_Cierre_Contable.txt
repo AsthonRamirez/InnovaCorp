@@ -1,0 +1,10 @@
+MANUAL DE CIERRE CONTABLE MENSUAL
+InnovaCorp · Área: finanzas · Versión 1.0 · Estado: vigente
+
+El cierre se realiza entre el día 1 y el día 5 hábil de cada mes.
+
+Las áreas entregan sus comprobantes pendientes a más tardar el último día del mes.
+
+Los pasos son: registrar facturas, conciliar bancos, calcular depreciaciones y revisar cuentas por cobrar y por pagar.
+
+Los estados financieros se entregan a la dirección el día 8 hábil.

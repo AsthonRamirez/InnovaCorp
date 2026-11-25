@@ -1,0 +1,10 @@
+POLÍTICA DE USO DEL CORREO CORPORATIVO
+InnovaCorp · Área: ti · Versión 1.0 · Estado: vigente
+
+El correo corporativo es solo para actividades de trabajo. Se prohíbe usarlo para cadenas, publicidad o fines personales.
+
+El tamaño máximo de un adjunto es de 25 megabytes; para archivos mayores se usa un enlace a la carpeta en la nube.
+
+Ante un correo sospechoso de phishing no se abre ningún enlace y se reenvía a seguridad@innovacorp.example.
+
+Los buzones se limpian de forma automática después de 3 años.

@@ -1,0 +1,8 @@
+PROCEDIMIENTO DE ENCUESTAS DE SATISFACCIÓN
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+Después de cada ticket cerrado se envía al cliente una encuesta de 3 preguntas, con calificación de 1 a 5.
+
+La meta de satisfacción es de 4.5 o más; las calificaciones de 2 o menos generan una llamada de seguimiento en 24 horas.
+
+Cada mes se presenta a la dirección un reporte con tendencias y causas de insatisfacción.

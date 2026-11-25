@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE PARO DE EMERGENCIA
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+Ante un riesgo para las personas, cualquier trabajador puede accionar el botón de paro de emergencia.
+
+Se evacúa a los compañeros hacia el punto de reunión y se avisa al supervisor y a la brigada.
+
+Nadie reinicia la línea sin que el supervisor y el área de seguridad revisen y autoricen.
+
+Todo paro se documenta en el formato FOR-PR-12 el mismo día.

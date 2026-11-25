@@ -1,0 +1,10 @@
+MANUAL DE MANTENIMIENTO DE INSTALACIONES
+InnovaCorp · Área: soporte_interno · Versión 1.0 · Estado: vigente
+
+Los reportes de fallas (luz, aire acondicionado, plomería) se hacen por ticket de mantenimiento.
+
+Las fallas urgentes, como fugas o cortos, se atienden en máximo 2 horas; las demás en 3 días hábiles.
+
+Mantenimiento preventivo: el aire acondicionado se revisa cada 3 meses y las luces de emergencia cada 6.
+
+Está prohibido que los colaboradores abran tableros eléctricos o realicen reparaciones por su cuenta.

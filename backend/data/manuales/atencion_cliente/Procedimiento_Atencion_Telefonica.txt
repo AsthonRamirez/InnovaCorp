@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE ATENCIÓN TELEFÓNICA
+InnovaCorp · Área: atencion_cliente · Versión 1.0 · Estado: vigente
+
+Las llamadas se contestan antes del tercer timbre con la frase de bienvenida oficial.
+
+El agente verifica la identidad del cliente con su número de cuenta y correo registrado.
+
+Si se requiere poner al cliente en espera, no debe superar 2 minutos sin retomar la llamada.
+
+Todas las llamadas se registran en el sistema con el motivo y el resultado.

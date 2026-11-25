@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE PAGO A PROVEEDORES
+InnovaCorp · Área: finanzas · Versión 1.0 · Estado: vigente
+
+Los pagos se realizan a 30 días a partir de la recepción de la factura, cada martes y jueves.
+
+La factura debe coincidir con la orden de compra y la entrada de mercancía (validación de tres vías).
+
+Las facturas con errores se devuelven al proveedor en 2 días hábiles.
+
+Los pagos mayores a 100,000 pesos requieren doble autorización.

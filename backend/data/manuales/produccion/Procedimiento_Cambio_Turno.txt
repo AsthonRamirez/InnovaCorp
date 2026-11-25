@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE CAMBIO DE TURNO
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+Los turnos son: matutino de 6:00 a 14:00, vespertino de 14:00 a 22:00 y nocturno de 22:00 a 6:00.
+
+Los supervisores se reúnen 15 minutos para entregar el estado de la línea, pendientes y riesgos.
+
+La entrega se registra en la bitácora de turno y se firma por ambos.
+
+Ningún operador deja su puesto hasta que su relevo haya llegado.

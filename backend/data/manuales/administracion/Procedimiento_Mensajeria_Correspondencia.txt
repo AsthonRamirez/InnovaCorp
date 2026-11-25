@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE MENSAJERÍA Y CORRESPONDENCIA
+InnovaCorp · Área: administracion · Versión 1.0 · Estado: vigente
+
+La correspondencia entrante se registra en recepción y se entrega al destinatario el mismo día.
+
+Para enviar paquetes por mensajería externa se llena el formato FOR-AD-11 antes de las 15:00 horas.
+
+Los envíos internacionales los autoriza el jefe de área y se contratan solo con la paquetería autorizada.
+
+El rastreo se informa al solicitante por correo electrónico.

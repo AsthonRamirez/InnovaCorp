@@ -1,0 +1,10 @@
+MANUAL DE CONFIGURACIÓN DE EQUIPO NUEVO
+InnovaCorp · Área: soporte_interno · Versión 1.0 · Estado: vigente
+
+Cada equipo nuevo se configura con el sistema operativo, el antivirus, el cliente de VPN y el software de oficina.
+
+El proceso toma de 2 a 3 horas e incluye cifrado del disco y registro del equipo en el inventario.
+
+Se crean los accesos del colaborador con apoyo de TI y se verifica su funcionamiento al entregar.
+
+Se entrega una guía rápida impresa con el contacto de soporte.

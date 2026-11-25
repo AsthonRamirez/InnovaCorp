@@ -1,0 +1,10 @@
+MANUAL DE SEGUIMIENTO A CLIENTES
+InnovaCorp · Área: ventas · Versión 1.0 · Estado: vigente
+
+Después de la entrega de un proyecto, el ejecutivo contacta al cliente en los primeros 7 días para confirmar su satisfacción.
+
+Se programan llamadas de seguimiento a los 30, 90 y 180 días.
+
+Cada contacto se registra en el CRM con los acuerdos y siguientes pasos.
+
+Si el cliente reporta un problema, el ejecutivo lo canaliza a Atención al Cliente el mismo día.

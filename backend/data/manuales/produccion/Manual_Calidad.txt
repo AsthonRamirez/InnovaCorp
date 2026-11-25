@@ -1,0 +1,10 @@
+PROCEDIMIENTO DE CONTROL DE CALIDAD EN PRODUCCIÓN
+InnovaCorp · Área: produccion · Versión 1.0 · Estado: vigente
+
+Cada lote se inspecciona antes de liberarse, registrando el resultado en el formato FOR-PR-04.
+
+Un lote con defectos mayores al 2 por ciento se detiene y se notifica al supervisor de planta.
+
+La inspección se hace con un muestreo del 10 por ciento de las piezas del lote.
+
+Los lotes rechazados se separan con etiqueta roja hasta definir su retrabajo o desecho.

@@ -1,0 +1,10 @@
+MANUAL DE CALIFICACIÓN DE LEADS
+InnovaCorp · Área: ventas · Versión 1.0 · Estado: vigente
+
+Los leads se califican con tres criterios: presupuesto, autoridad de decisión y urgencia de la necesidad.
+
+Cada criterio vale de 0 a 10 puntos; un lead con 21 puntos o más es caliente y se contacta en 24 horas.
+
+De 11 a 20 puntos se considera tibio y se nutre con contenido mensual.
+
+Con 10 o menos puntos es frío y se agrega a la lista de seguimiento trimestral.
