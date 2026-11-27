@@ -1,0 +1,40 @@
+# Secretos y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Índice RAG generado localmente
+backend/data/chroma/
+
+# Datos locales generados (se crean con generar_datos.py)
+backend/data/usuarios.json
+backend/data/documentos.json
+backend/data/registro.json
+backend/resultados_pruebas.csv
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
